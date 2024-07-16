@@ -1,0 +1,5 @@
+/Data
+.env
+*.csv
+*.pickle
+*.json
